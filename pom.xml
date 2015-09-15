@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.venkys</groupId>
+  <artifactId>BigNumberOperation</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Big Number Operation</name>
+  <description>Addition and multiplication operation of Big Number with hundreds or thousands of digits </description>
+  
+<dependencies>  
+	<dependency>
+		<groupId>junit</groupId>
+		<artifactId>junit</artifactId>
+		<version>4.12</version>
+		<scope>test</scope>
+	</dependency>
+</dependencies>
+</project>
