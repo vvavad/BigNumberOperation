@@ -1,4 +1,4 @@
-package com.venkys.bigNumberLibrary.test;
+package com.venkys.bigNumberLibrary;
 
 import org.junit.Test;
 import com.venkys.bigNumberLibrary.OperationFactory;

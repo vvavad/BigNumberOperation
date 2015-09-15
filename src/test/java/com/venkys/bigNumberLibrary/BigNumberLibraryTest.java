@@ -1,4 +1,4 @@
-package com.venkys.bigNumberLibrary.test;
+package com.venkys.bigNumberLibrary;
 
 import junit.framework.Assert;
 import org.junit.Test;
